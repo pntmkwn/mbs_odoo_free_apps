@@ -1,0 +1,1 @@
+# mbs_odoo_free_apps
