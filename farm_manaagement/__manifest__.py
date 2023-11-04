@@ -1,7 +1,7 @@
 {
-    'name': 'Farm Management Project',
-    'summary': 'Farm Management Project',
-    'description': """ Farm Management Project """,
+    'name': 'Farm Management System',
+    'summary': 'Farm Management System',
+    'description': """ Farm Management System """,
     'sequence': -3,
     'version': '16.0.0',
     'author': 'Mordant Business Solutions',
