@@ -3,7 +3,7 @@
     'summary': 'Farm Management System',
     'description': """ Farm Management System """,
     'sequence': -1,
-    'version': '15.0.0',
+    'version': '15.0.0.2.0',
     'author': 'Mordant Business Solutions',
     'website': 'https://www.mordantbs.com',
     'category': 'Farm/Farm',
