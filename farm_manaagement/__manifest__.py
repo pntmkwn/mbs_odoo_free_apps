@@ -1,5 +1,5 @@
 {
-    'name': 'Farm Management Project',
+    'name': 'Farm Management System',
     'summary': 'Farm Management Project',
     'description': """ Farm Management Project """,
     'sequence': -1,
