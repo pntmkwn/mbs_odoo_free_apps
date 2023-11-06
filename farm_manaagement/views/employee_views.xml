@@ -427,6 +427,11 @@
               action='action_view_agriculture'
               sequence="2"/>
 
+    <menuitem id="farm_configuration_menu_item"
+              name="Configuration"
+              parent="fram_menu"
+              sequence="11"/>
+
 
     <menuitem id="farm_location_submenu_item"
               name="Location"
@@ -446,10 +451,7 @@
               action="action_view_farm_conf_crop"
               sequence="4"/>
 
-    <menuitem id="farm_configuration_menu_item"
-              name="Configuration"
-              parent="fram_menu"
-              sequence="11"/>
+
 </odoo>
 
 
