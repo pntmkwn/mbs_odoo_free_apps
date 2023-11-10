@@ -8,7 +8,7 @@
     'author': 'Mordant Buisness Solutions',
     'website': 'https://www.mordantbs.com',
     'license': 'OPL-1',
-    'depends': ["base", "website", "mbs_hospital_management"],
+    'depends': ["base", "website"],
     'data': [
         "security/ir.model.access.csv",
         'data/sequence.xml',
