@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 {
-    'name': 'MBS Online Appointment',
+    'name': "Online Patient's Appointment System",
     'category': 'Patient Appointment',
     'version': '16.0.0.8',
     'summary': 'Patient Appointment online registration ',
