@@ -3,7 +3,7 @@
 {
     'name': 'MBS Online Appointment',
     'category': 'Patient Appointment',
-    'version': '16.0.0.8',
+    'version': '15.0.0.8',
     'summary': 'Patient Appointment online registration ',
     'author': 'Mordant Buisness Solutions',
     'website': 'https://www.mordantbs.com',
